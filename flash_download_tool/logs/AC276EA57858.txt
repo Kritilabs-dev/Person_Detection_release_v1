@@ -1,0 +1,72 @@
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260522-13:39
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 4096 C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 65536 C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\person_detection_esp32_s3.bin
+Wrote 22272 bytes (14235 compressed) at 0x00001000 in 1.4 seconds (effective 123.8 kbit/s)...
+Wrote 3072 bytes (105 compressed) at 0x00008000 in 0.0 seconds (effective 574.3 kbit/s)...
+Wrote 1983840 bytes (938844 compressed) at 0x00010000 in 83.2 seconds (effective 190.8 kbit/s)...
+File: C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 867e9250a43fabe39a5ff63615528f8d
+Flash md5: 867e9250a43fabe39a5ff63615528f8d
+Hash of data verified.
+File: C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: ffcc7145329493c26357a8f880e0b5a4
+Flash md5: ffcc7145329493c26357a8f880e0b5a4
+Hash of data verified.
+File: C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\person_detection_esp32_s3.bin
+File  md5: 80bdea38960c2df0f7a5bfcd8f77cde4
+Flash md5: 80bdea38960c2df0f7a5bfcd8f77cde4
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 91 s
+Download result: PASS
+*************************** END ****************************
+
+Download button pressed
+*************************** START ****************************
+Chip: ESP32S3
+Download mode: uart
+Start time: 20260522-13:45
+Connect baud: 115200
+Com:COM13
+connecting...
+manufacturer_id: 0x68
+device_id: 0x4018
+fs:0x200
+address/file: 0 C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+address/file: 32768 C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+address/file: 65536 C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\person_detection_esp32_s3.bin
+Wrote 22272 bytes (14235 compressed) at 0x00000000 in 1.5 seconds (effective 122.3 kbit/s)...
+Wrote 3072 bytes (105 compressed) at 0x00008000 in 0.0 seconds (effective 540.1 kbit/s)...
+Wrote 1983840 bytes (938844 compressed) at 0x00010000 in 83.1 seconds (effective 191.0 kbit/s)...
+File: C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\bootloader.bin
+File  md5: 867e9250a43fabe39a5ff63615528f8d
+Flash md5: 867e9250a43fabe39a5ff63615528f8d
+Hash of data verified.
+File: C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\partition-table.bin
+File  md5: ffcc7145329493c26357a8f880e0b5a4
+Flash md5: ffcc7145329493c26357a8f880e0b5a4
+Hash of data verified.
+File: C:\Users\KL1114\Desktop\Person_Detection_release_v1\flash_download_tool (2)\dl_temp\bin_tmp\downloadPanel1\person_detection_esp32_s3.bin
+File  md5: 80bdea38960c2df0f7a5bfcd8f77cde4
+Flash md5: 80bdea38960c2df0f7a5bfcd8f77cde4
+Hash of data verified.
+
+Leaving...
+com closed
+Total use time: 91 s
+Download result: PASS
+*************************** END ****************************
+
